@@ -9,7 +9,7 @@ MohitPaudel05/MohitPaudel05 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=swayamyadav05.swayamyadav05" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MohitPaudel05.MohitPaudel05" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swayam+Yadav!;" />
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
 
 <!--img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='left' height = 300 width = 300 -->
-<img src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
+<img src="https://raw.githubusercontent.com/MohitPaudel05/MohitPaudel05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
 
 <h3 align="left">A passionate human interested in cybersecurity</h3>
 <hr/>
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   
 🌱 I'm learning **Ethical Hacking** on my own as well
 
-💬 Ask me about **anything [here](https://github.com/swayamyadav05/swayamyadav05/issues)**
+💬 Ask me about **anything [here](https://github.com/MohitPaudel05/MohitPaudel05/issues)**
 
 ⚡ Fun fact:<br/>
 **Hacking: where curiosity meets keystrokes, and cybersecurity becomes a game of cat and mouse**
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://linkedin.com/in/swayam-yadav-990900229">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://swayamyadav05.github.io">
+  <a href="https://MohitPaudel05.github.io">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohitPaudel05/MohitPaudel05/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
     
   <br/><br/><br/>
 </div>
