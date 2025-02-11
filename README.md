@@ -9,10 +9,12 @@ MohitPaudel05/MohitPaudel05 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
-
+<!--<img src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swayam+Yadav!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohit+Poudel!;" />
+</h1>
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
 </h1>
 
 <div align="left">
@@ -20,31 +22,31 @@ You can click the Preview link to take a look at your changes.
 <!--img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='left' height = 300 width = 300 -->
 <img src="https://raw.githubusercontent.com/MohitPaudel05/MohitPaudel05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
 
-<h3 align="left">A passionate human interested in cybersecurity</h3>
+<h3 align="left">A passionate human interested in Backend and Data Analyst</h3>
 <hr/>
 <br/>
 
 <div align="left">
  
-🔭 I’m currently studying B.Tech(CSE) from <a href="https://kiit.ac.in/">@KIIT </a>
+🔭 I’m currently studying B.Tech(Ed IT) from <a href="https://radiantcollege.edu.np/">@Radiant</a>
  
-👨‍💻 I’m currently working as a SDE intern @ SkillRank 
+<!--👨‍💻 I’m currently working as a SDE intern @ SkillRank -->
   
-🌱 I'm learning **Ethical Hacking** on my own as well
+🌱 I'm learning **Django** on my own as well
 
 💬 Ask me about **anything [here](https://github.com/MohitPaudel05/MohitPaudel05/issues)**
 
 ⚡ Fun fact:<br/>
-**Hacking: where curiosity meets keystrokes, and cybersecurity becomes a game of cat and mouse**
+**DM**
 
  </div>
 <br/><br/><br/><br/><br/><br/><br/>
 <div align="left"> 
-  <a href="mailto:yadav69.swayam@gmail.com">
+  <a href="mailto:mohitpoudel39@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/swayam-yadav-990900229">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!--<a href="https://linkedin.com/in/swayam-yadav-990900229">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />-->
   </a>
   <a href="https://MohitPaudel05.github.io">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
@@ -56,27 +58,29 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left"><u>⚒️ Languages-Frameworks-Tools ⚒️</u></h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,vscode,mysql,mongodb,react,flask,aws,ts" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,pr,kali,linux,html,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=python,vscode,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,html,github,git" /><br>
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
+<!--<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohitPaudel05/MohitPaudel05/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
     
   <br/><br/><br/>
 </div>
-
+-->
 <hr/>
 
 # 📊 GitHub Stats:
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=MohitPaudel05&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPaudel05&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohitPaudel05&theme=dark&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPaudel05&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohitPaudel05&theme=dark&hide_border=true)<br/> 
 
 <!-- Work Summary -->
 <!-- <b>Work Summary</b><br> -->
