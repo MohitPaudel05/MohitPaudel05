@@ -74,9 +74,9 @@ You can click the Preview link to take a look at your changes.
 <hr/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=swayamyadav05&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=swayamyadav05&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MohitPaudel05&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPaudel05&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohitPaudel05&theme=dark&hide_border=true)<br/>
 
 <!-- Work Summary -->
 <!-- <b>Work Summary</b><br> -->
