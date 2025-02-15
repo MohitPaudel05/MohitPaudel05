@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
 
 <!--img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='left' height = 300 width = 300 -->
-<img src="https://raw.githubusercontent.com/MohitPaudel05/MohitPaudel05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
+
 
 <h3 align="left">A passionate human interested in Backend and Data Analyst</h3>
 <hr/>
@@ -41,89 +41,22 @@ You can click the Preview link to take a look at your changes.
 
  </div>
 <br/><br/><br/><br/><br/><br/><br/>
-<div align="left"> 
-  <a href="mailto:mohitpoudel39@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <!--<a href="https://linkedin.com/in/swayam-yadav-990900229">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />-->
-  </a>
-  <a href="https://MohitPaudel05.github.io">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
 
-<hr/>
-<h2 align="left"><u>⚒️ Languages-Frameworks-Tools ⚒️</u></h2>
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=python,vscode,mysql" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,html,github,git" /><br>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpaudel05&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpaudel05" /> </p>
 
-<br/>
-<hr/>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitpaudel05" alt="mohitpaudel05" /></a> </p>-->
 
-<!--<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohitPaudel05/MohitPaudel05/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
-    
-  <br/><br/><br/>
-</div>
--->
-<hr/>
-
-# 📊 GitHub Stats:
-<!--
-![](https://github-readme-stats.vercel.app/api?username=MohitPaudel05&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPaudel05&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohitPaudel05&theme=dark&hide_border=true)<br/> 
-
-<!-- Work Summary -->
-<!-- <b>Work Summary</b><br> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&layout=compact&count_private=true&theme=dark"> -->
-
-
-
-<!-- My Stats -->
-
-<!-- <b>My Statistics</b><br> -->
-
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swayamyadav05&show_icons=true&locale=en&theme=dark" alt="swayamyadav05" /></p> -->
-<!-- <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamyadav05&theme=dark" alt="swayamyadav05" style="max-width: 100%;"/> -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/mo_hit_paudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo_hit_paudel" height="30" width="40" /></a>
 </p>
-<!-- <img alt="Trophy" align="left" height="250px" src="https://github-profile-trophy.vercel.app/?username=swayamyadav05&theme=dracula"/> -->
 
-<!-- <a href="https://quine.sh/profile/swayamyadav05"><img src="https://stats.quine.sh/swayamyadav05/github?simple=true" alt="swayamyadav05's GitHub stats" width="840px"></a> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<br/><br/>
-<!--div align="left">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitpaudel05&show_icons=true&locale=en&layout=compact" alt="mohitpaudel05" /></p>
 
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitpaudel05&show_icons=true&locale=en" alt="mohitpaudel05" /></p><->
 
-<!-- div align="left">
-<details>
-<summary><b> Some Statistics Fun </b></summary>
-   </br>
-   </br>
-<div align="left">
-<img src='https://github-readme-stats.vercel.app/api?username=swayamyadav05&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&theme=tokyonight&hide_langs_below=4' />
-</br></br>
-<img src="https://activity-graph.herokuapp.com/graph?username=swayamyadav05&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
-   </br>
-   </br>
-</div>
-</details>
-</div>
-<!-- end statics fun section -->
-
-<!--details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-</details -->
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitpaudel05&" alt="mohitpaudel05" /></p>->
