@@ -13,9 +13,10 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohit+Poudel!;" />
 </h1>
+<!--
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
-</h1>
+</h1>->
 
 <div align="left">
 
