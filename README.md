@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 <br/><br/><br/><br/><br/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpaudel05&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpaudel05" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpaudel05&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpaudel05" /> </p>-->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitpaudel05" alt="mohitpaudel05" /></a> </p>-->
 
