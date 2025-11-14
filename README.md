@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
  
 <!--👨‍💻 I’m currently working as a SDE intern @ SkillRank -->
   
-🌱 I'm learning **Django** on my own as well
+🌱 I'm learning **.NET** on my own as well
 - 📫 How to reach me **mohitpoudel39@gmail.com**
 
 💬 Ask me about **anything [here](https://github.com/MohitPaudel05/MohitPaudel05/issues)**
